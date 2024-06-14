@@ -1,0 +1,2783 @@
+Immortal Stealer
+X-Files Stealer
+000Stealer
+3CX Backdoor
+3CX Backdoor
+404 Keylogger
+4h_rat
+7ev3n
+8.t Dropper
+888 RAT
+9002 RAT
+Abaddon
+AbaddonPOS
+abantes
+Abbath Banker
+Abcbot
+Aberebot
+AbSent Loader
+AbstractEmu
+ACBackdoor
+ACBackdoor
+ACEHASH
+AcidBox
+AcidRain
+AcridRain
+Acronym
+ActionSpy
+Adamantium Thief
+AdamLocker
+Adhubllka
+AdKoob
+AdoBot
+AdultSwine
+AdvisorsBot
+AdWind
+Adylkuzz
+Adzok
+AESRT
+Afrodita
+AgeLocker
+AgendaCrypt
+Agent Tesla
+Agent.BTZ
+AgfSpy
+AhMyth
+Ahtapot
+AIRBREAK
+AirDropBot
+Aisuru
+Albaniiutas
+Aldibot
+Alfonso Stealer
+Alien
+Alina POS
+AllaKore
+Allaple
+AllcomeClipper
+Alma Communicator
+AlmaLocker
+Almanahe
+AlmondRAT
+ALPC Local PrivEsc
+Alphabet Ransomware
+AlphaLocker
+AlphaNC
+Alreay
+Alureon
+Amadey
+AmpleBot
+AMTsol
+Anatova Ransomware
+Anatsa
+Anchor
+AnchorDNS
+AnchorMail
+Andardoor
+Andromeda
+AndroMut
+AndroRAT
+Anel
+ANGRYREBEL
+Ani-Shell
+ANTAK
+AnteFrigus
+Antilam
+Anubis
+Anubis
+Anubis Loader
+AnubisSpy
+APERETIF
+Apocalipto
+Apocalypse
+Apollo
+Apostle
+AppleJeus
+AppleJeus
+Appleseed
+APT3 Keylogger
+Archivist
+ArdaMax
+Arefty
+Ares
+Ares
+AresLoader
+ArguePatch
+Aria-body
+Arid Gopher
+AridHelper
+Arik Keylogger
+Arkei Stealer
+ArrowRAT
+ARS VBS Loader
+ARTFULPIE
+Artra Downloader
+Asacub
+Asbit
+AscentLoader
+Ashas
+ASPC
+Asprox
+ASPXSpy
+Asruex
+Astaroth
+AstraLocker
+AsyncRAT
+ATANK
+AthenaGo RAT
+ATI-Agent
+ATMii
+ATMitch
+Atmosphere
+ATMSpitter
+ATOMSILO
+Attor
+August Stealer
+Auriga
+Aurora
+Aurora Stealer
+AutoCAD Downloader
+Avaddon
+AvastDisabler
+AVCrypt
+AvD Crypto Stealer
+Ave Maria
+Aveo
+Avoslocker
+AvosLocker
+Avzhan
+AXLocker
+Ayegent
+Aytoke
+azazel
+Azorult
+Azov Wiper
+B1txor20
+Babar
+Babuk
+Babuk
+BabyLon RAT
+BABYMETAL
+BabyShark
+Bachosens
+BACKBEND
+BackConfig
+Backdoorit
+BackNet
+Backoff POS
+backspace
+BackSwap
+BADCALL
+BADCALL
+BadEncript
+badflick
+BADHATCH
+BadNews
+BadPatch
+Bagle
+Bahamut
+Bahamut
+Baldr
+BalkanDoor
+BalkanRAT
+Bamital
+Banatrix
+bancos
+Bandook
+bangat
+Banjori
+Bankshot
+Banload
+Barb(ie) Downloader
+BarbWire
+barkiofork
+Bart
+Basbanke
+Bashlite
+BatchWiper
+Batel
+Bateleur
+BATLOADER
+BazarBackdoor
+BazarNimrod
+BBSRAT
+BBtok
+BCMPUPnP_Hunter
+Beapy
+BEATDROP
+Bedep
+Bee
+beendoor
+BeepService
+Behinder
+Bella
+BELLHOP
+Belonard
+Berbomthum
+BernhardPOS
+BestKorea
+BetaBot
+Bezigate
+BfBot
+BHunt
+BianLian
+BianLian
+BianLian
+bifrose
+Bifrost
+BigViktor
+BillGates
+Binanen
+BioData
+bioload
+BIOPASS
+BioSet
+Biscuit
+BISTROMATH
+BitPyLock
+BitRAT
+Bitsran
+Bitter RAT
+Bizzaro
+BI_D Ransomware
+BKA Trojaner
+Black Basta
+Black Basta
+BlackByte
+BlackCat
+BlackCat
+BLACKCOFFEE
+BlackEnergy
+BlackGuard
+BlackKingdom Ransomware
+BlackLotus
+BlackMagic
+BlackMatter
+BlackMatter
+BlackNET RAT
+BlackNix RAT
+BlackPOS
+BlackRemote
+BlackRevolution
+Blackrota
+BlackRouter
+Blackruby
+BlackShades
+BlackSnake
+BlackSoul
+BlackSun
+Blackworm RAT
+BleachGap
+BLINDINGCAN
+BLINDTOAD
+Blister
+BloodyStealer
+Blue Banana RAT
+BlueFox
+BLUEHAZE
+BlueSky
+BLUETHER
+BluStealer
+BOATLAUNCH
+Boaxxe
+Bobik
+Bohmini
+BOLDMOVE
+BOLDMOVE
+Bolek
+BONDUPDATER
+Book of Eli
+Bookworm
+BOOMBOX
+BOOSTWRITE
+BOOTWRECK
+Borat RAT
+Borr
+BotenaGo
+Bouncer
+BoxCaon
+Bozok
+BPFDoor
+BRAIN
+Brambul
+BrasDex
+BRATA
+BravoNC
+BrbBot
+BreachRAT
+Break out the Box
+Breakthrough
+Bredolab
+BrickerBot
+BrittleBush
+BROKEYOLK
+BROLER
+Bruh Wiper
+Brunhilda
+BrushaLoader
+Brute Ratel C4
+brute_ratel
+BrutPOS
+BS2005
+BTCWare
+BUBBLEWRAP
+Buer
+BUFFETLINE
+BUGHATCH
+Buhtrap
+BumbleBee
+Bundestrojaner
+Bundlore
+Bunitu
+BusyGasper
+Buterat
+Buzus
+Bvp47
+BYEBY
+c0d0so0
+c99shell
+CabArt
+CACTUSTORCH
+CaddyWiper
+CadelSpy
+CageyChameleon
+Caja
+Caligula
+CALMTHORN
+Cameleon
+campoloader
+CamuBot
+Cannibal Rat
+Cannon
+Capoae
+CapraRAT
+Carbanak
+Carberp
+CarbonSteal
+Cardinal RAT
+Careto
+CargoBay
+CARROTBALL
+CarrotBat
+CASHY200
+Casper
+Casso
+CatB
+Catchamas
+Catelites
+CCleaner Backdoor
+CDDS
+CDorked
+CDRThief
+CEELOADER
+CenterPOS
+Cephei
+Cerber
+Cerberus
+Cerbu
+CetaRAT
+Cetus
+ChaChi
+Chaes
+Chainshot
+CHAIRSMACK
+Chamois
+Chaos
+Chaos
+Chaperone
+Chapro
+Charger
+CHCH
+ChChes
+CHEESETRAY
+Chernolocker
+CherryPicker POS
+ChewBacca
+CHINACHOPPER
+Chinad
+ChinaJm
+Chinotto
+Chinotto
+Chinoxy
+Chir
+Chisel
+Chisel
+ChiserClient
+Choziosi
+Choziosi
+ChromeBack
+Chrysaor
+Chthonic
+cifty
+Cinobi
+Citadel
+Clambling
+CLASSFON
+CLEANTOAD
+Client Maximus
+Clientor
+ClipBanker
+Clipper
+Clop
+Clop
+Cloud Snooper
+CloudAtlas
+CLOUDBURST
+CloudDuke
+CloudEyE
+CloudMensis
+CMSBrute
+CMSTAR
+CoalaBot
+Cobalt Strike
+CobaltMirage FRP
+Cobian RAT
+CobInt
+Cobra Carbon System
+CockBlocker
+CodeCore
+CodeKey
+Cohhoc
+Coinminer
+CoinThief
+Cold$eal
+coldbrew
+ColdLock
+Coldroot RAT
+ColdStealer
+Colibri Loader
+CollectorGoomba
+Colony
+Combojack
+Combos
+ComeBacker
+CometBot
+Comfoo
+ComLook
+CommonMagic
+ComodoSec
+COMpfun
+Computrace
+ComradeCircle
+concealment_troy
+Conficker
+Confucius
+Connic
+Conti
+Conti
+Contopee
+Convuster
+CookieBag
+Coper
+CopperStealer
+Corebot
+CoreDN
+Coreshell
+Corona DDOS Bot
+Coronavirus Android Worm
+CoronaVirus Ransomware
+CosmicDuke
+Cotx RAT
+Cova
+Covicli
+Covid22
+CoViper
+COZYDUKE
+CpuMeaner
+Cpuminer
+Cpuminer
+Cr1ptT0r
+crackshot
+CradleCore
+CRAT
+CREAMSICLE
+CreativeUpdater
+CredoMap
+Credraptor
+CreepExfil
+CreepySnail
+Crenufs
+Crimson RAT
+CrimsonIAS
+Cring
+Crisis
+CronRAT
+CrossRAT
+Crossrider
+CROSSWALK
+Crutch
+Cryakl
+CryCryptor
+CryLocker
+CrypMic
+Crypt0l0cker
+CryptBot
+CrypticConvo
+CryptoDarkRubix
+CryptoFortress
+CryptoLocker
+CryptoLuck
+CryptoMix
+CryptoNight
+CryptoPatronum
+CryptoRansomeware
+Cryptorium
+CryptoShield
+CryptoShuffler
+Cryptowall
+CryptoWire
+CryptXXXX
+Crytox
+CsExt
+CTB Locker
+Cuba
+Cuegoe
+Cueisfry
+CukieGrab
+Curator
+Cursed Murderer
+Cutlet
+Cutwail
+CyberAzov
+CyberGate
+CyberSplitter
+CycBot
+CyclopsBlink
+Cyrat
+cysxl
+Dacls
+Dacls
+Dacls
+DADJOKE
+DADSTACHE
+Dairy
+DanaBot
+danbot
+Dark
+Dark Nexus
+Dark Shades
+DarkBit
+DarkCloud Stealer
+DarkComet
+DARKDEW
+DarkEye
+DarkHotel
+DarkIRC
+DarkLoader
+DarkMe
+DarkMegi
+Darkmoon
+DarkPink
+DarkPulsar
+DarkRadiation
+DarkRat
+DarkShell
+DarkSide
+DarkSide
+Darksky
+DarkStRat
+DarkTequila
+DarkTortilla
+Darktrack RAT
+DarkVNC
+DarkWatchman
+DarthMiner
+Daserf
+DataExfiltrator
+Datper
+DawDropper
+Daxin
+DazzleSpy
+DBatLoader
+DBoxAgent
+DcDcrypt
+DCRat
+DCSrv
+DDG
+DDKeylogger
+DDKONG
+ddoor
+DEADBOLT
+DEADWOOD
+DealPly
+dearcry
+DeathRansom
+DECAF
+Decebal
+DeepCreep
+DeepRAT
+DEFENSOR ID
+Defray
+Deimos
+DeimosC2
+Delta(Alfa,Bravo, ...)
+Dendroid
+Denonia
+Dented
+Deprimon
+DeputyDog
+DeriaLock
+DeroHE
+Derusbi
+Derusbi
+DesertBlade
+Devil's Rat
+DEWMODE
+Dexbia
+Dexphot
+Dexter
+Dharma
+DiamondFox
+Diavol
+DILLJUICE
+DilongTrash
+Dimnie
+DinoTrain
+DirCrypt
+DirtyMoe
+DispCashBR
+DispenserXFS
+DistTrack
+Divergent
+Diztakun
+DMA Locker
+DMSniff
+dmsSpy
+DneSpy 
+DNSChanger
+DNSMessenger
+DNSpionage
+DNSRat
+dnWipe
+Dockster
+doenerium
+Dofloo
+DogHousePower
+Dok
+Doki
+Domino
+donut_injector
+DoorMe
+DoppelDridex
+DoppelPaymer
+Dorshel
+Dosia
+DOSTEALER
+Dot Ransomware
+DoubleAgent
+DOUBLEBACK
+DoubleFantasy
+DoubleFantasy
+DoubleLocker
+DoublePulsar
+DoubleZero
+Downdelph
+Downeks
+DownPaper
+Dracarys
+DramNudge
+DRATzarus
+DreamBot
+Dridex
+DRIFTPIN
+Dripion
+DriveOcean
+DroidJack
+DroidWatcher
+Drokbk
+DropBook
+DropboxC2C
+DROPSHOT
+Dtrack
+DualToy
+DualToy
+DualToy
+DUBrute
+DUCKTAIL
+Dumador
+Dummy
+DuQu
+DUSTMAN
+Duuzer
+Dvmap
+DYEPACK
+DynamicStealer
+Dyre
+EagleMonitorRAT
+EASYNIGHT
+Ebury
+Echobot
+EDA2
+Egregor
+EHDevel
+Ekipa RAT
+El Machete APT Backdoor Dropper
+Eleanor
+ELECTRICFISH
+ElectricPowder
+ElectroRAT
+elf.wellmess
+Elibomi
+Elirks
+Elise
+ELMER
+Emdivi
+Emissary
+Emotet
+Empire Downloader
+Emudbot
+EnemyBot
+Enfal
+Enigma Loader
+Enrume
+Ensikology
+Entropy
+Enviserv
+EnvyScout
+EpicSplit RAT
+Epsilon Red
+EquationDrug
+Equationgroup (Sorting)
+Erbium Stealer
+Erebus
+Erebus
+Eredel
+Erica Ransomware
+Eris
+ERMAC
+ESPecter
+ESXiArgs
+EternalPetya
+EternalRocks
+Eternity Clipper
+Eternity Ransomware
+Eternity Stealer
+Eternity Worm
+EtumBot
+Eventbot
+Evilbunny
+EvilGnome
+EvilGrab
+EVILNUM
+EVILNUM
+EvilOSX
+EvilPlayout
+EvilPony
+EvilQuest
+Evrial
+EwDoor
+Exaramel
+Exaramel
+ExByte
+Excalibur
+Exile RAT
+ExMatter
+ExoBot
+Exodus
+Exorcist
+Expiro
+ExplosiveRAT
+ext4
+Eye Pyramid
+EYService
+Fabookie
+Facefish
+FaceStealer
+FailyTale
+Fake Pornhub
+FakeAdBlocker
+FakeGram
+FakeRean
+FakeSpy
+FakeTC
+FAKEUPDATES
+FakeWord
+fancyfilter
+Fanny
+FantomCrypt
+Farseer
+FastCash
+FastFire
+FastLoader
+FastPOS
+FastSpy
+FatalRat
+FatDuke
+Fauppod
+FBot
+FCT
+FEimea RAT
+Felismus
+Felixroot
+fengine
+Feodo
+FFDroider
+Ficker Stealer
+FileCoder
+Filecoder
+FileIce
+Filerase
+Final1stSpy
+FindPOS
+FinFisher
+FinFisher
+FinFisher
+FinFisher RAT
+Fire Chili
+Fireball
+FireBird RAT
+FireCrypt
+FireMalv
+FirstRansom
+FishMaster
+FiveHands
+Flagpro
+Flame
+FlashBack
+FLASHFLOOD
+FlawedAmmyy
+FlawedGrace
+FlexiSpy
+FlexiSpy
+FlexiSpy
+FlexNet
+FlokiBot
+floodor
+FlowCloud
+FlowerPower
+FlowerShop
+Floxif
+FluBot
+Flusihoc
+FlyingDutchman
+FlyStudio
+FlyTrap
+Fobber
+Fodcha
+FONIX
+FontOnLake
+forbiks
+Formbook
+FormerFirstRAT
+FortuneCrypt
+FoxSocket
+FRat
+FRat Loader
+Freenki Loader
+FriedEx
+FritzFrog
+FruitFly
+FTCODE
+FudModule
+FunkyBot
+FunnyDream
+FunnySwitch
+FurBall
+Furtim
+FuxSocy
+Gacrux
+GalaxyLoader
+gamapos
+Gameover DGA
+Gameover P2P
+GamePlayerFramework
+Gamotrol
+Gandcrab
+Gasket
+Gaudox
+Gauss
+Gazer
+GCleaner
+gcman
+Gdrive
+GearInformer
+GEARSHIFT
+GEMCUTTER
+GeminiDuke
+Geost
+Get2
+GetMail
+GetMyPass
+get_pwd
+GGLdr
+Gh0stnet
+Gh0stTimes
+GHAMBAR
+Ghimob
+Ghole
+Ghost RAT
+GhostAdmin
+GhostCtrl
+GhostEmperor
+GhostMiner
+GhostSecret
+Gibberish
+Giffy
+Gigabud
+GIMMICK
+Ginp
+Ginwui
+Ginzo Stealer
+Gitpaste-12
+GlanceLove
+Glasses
+GlassRAT
+GlitchPOS
+Globe
+GlobeImposter
+GlooxMail
+GlowSpark
+Glupteba
+Glupteba Proxy
+Gmera
+GnatSpy
+GoBotKR
+goCryptoLocker
+Godfather
+Godlike12
+Godlua
+goDoH
+Godzilla Loader
+Godzilla Webshell
+Gofing
+Goggles
+GoGoogle
+GoldDragon
+GoldenEagle
+GoldenEye
+GoldenHelper
+GoldenRAT
+GoldenSpy
+GoldMax
+Golroted
+GoMet
+Gomorrah stealer
+Goodor
+GoogleDrive RAT
+goontact
+GooPic Drooper
+GootKit
+GootLoader
+Gophe
+Gopuram
+GOSH
+GOTROJ
+GovRAT
+Gozi
+GPCode
+GPlayed
+GrabBot
+Graftor
+GRAMDOOR
+Grandoreiro
+GrandSteal
+GraphicalNeutrino
+Graphiron
+Graphite
+Graphon
+GraphSteel
+Grateful POS
+Gratem
+Gravity RAT
+GREASE
+GreedyAntd
+GreenShaitan
+grelos
+GreyEnergy
+Griffon
+GriftHorse
+GRILLMARK
+GRIMAGENT
+GrimPlant
+Grinju Downloader
+GROK
+GRUNT
+gsecdump
+Guard
+Guerrilla
+GuiInject
+GUP Proxy Tool
+Gustuff
+Gwisin
+H1N1 Loader
+HabitsRAT
+HabitsRAT
+Hacksfase
+HackSpy
+Hades
+Haiduc
+Hajime
+Hakai
+Hakbit
+HALFBAKED
+Hamweq
+Hancitor
+Hand of Thief
+HandyMannyPot
+HappyLocker (HiddenTear?)
+HARDRAIN
+HARDRAIN
+Harnig
+Haron Ransomware
+HavanaCrypt
+Havex RAT
+Havoc
+HAWKBALL
+HawkEye Keylogger
+HawkShaw
+HDMR
+HDRoot
+HeaderTip
+Helauto
+HelloBot
+HelloBot
+HelloKitty
+HelloKitty
+Helminth
+Heloag
+HenBox
+Herbst
+Heriplor
+Hermes
+HermeticWiper
+HermeticWizard
+Hermit
+HeroRAT
+HerpesBot
+HesperBot
+heyoka
+Hi-Zor RAT
+HiAsm
+HiatusRAT
+Hidden Bee
+HiddenAd
+HiddenLotus
+HiddenTear
+HiddenWasp
+Hide and Seek
+HideDRV
+HIGHNOON
+HIGHNOON.BIN
+HIGHNOTE
+HiKit
+HilalRAT
+himan
+Himera Loader
+HinataBot
+Hipid
+Hisoka
+Hive
+Hive
+Hive (Vault 8)
+HLUX
+Holcus Installer (Adware)
+homefry
+Hook
+HookInjEx
+HOPLIGHT
+Hopscotch
+Horus Eyes RAT
+HorusEyes RAT
+HOTCROISSANT
+HOTWAX
+Houdini
+HtBot
+HTML5 Encoding
+htpRAT
+HTran
+HttpBrowser
+httpdropper
+http_troy
+Hubnr
+HUI Loader
+Hunter Stealer
+Hupigon
+Hussar
+HxDef
+Hydra
+HyperBro
+HYPERSCRAPE
+HyperSSL
+HyperSSL
+HZ RAT
+Icarus
+Ice IX
+IcedID
+IcedID Downloader
+Icefog
+IceRat
+Icnanker
+IconDown
+IconicStealer
+IcyHeart
+IDKEY
+IISniff
+IISpy
+Iloveyou
+Imecab
+Imminent Monitor RAT
+iMuler
+INCONTROLLER
+Incubator
+IndigoDrop
+Industrial Spy
+Industroyer
+INDUSTROYER2
+Inferno
+InfoDot
+Infy
+Inlock
+InnaputRAT
+inter
+Interception
+Interception
+InvisiMole
+IoT Reaper
+IPStorm
+IPStorm
+IRATA
+Irc16
+Ironcat
+IRONHALO
+IronNetInjector
+IRRat
+IsaacWiper
+ISFB
+ISMAgent
+ISMDoor
+iSpy Keylogger
+ISR Stealer
+IsraBye
+IsSpace
+IXWare
+JackPOS
+JadeRAT
+Jaff
+Jager Decryptor
+Jaku
+Janeleiro
+Janicab
+Janicab
+jason
+JasperLoader
+Jasus
+JavaDispCash
+JavaLocker
+JCry
+Jeniva
+Jeno
+JenX
+Jetriz
+JhoneRAT
+Jigsaw
+Jimmy
+Joanap
+Joao
+Joker
+Jolob
+JQJSNICKER
+jRAT
+JripBot
+JSOutProx
+jspRAT
+jSpy
+JSSLoader
+JuicyPotato
+JUMPALL
+KAgent
+Kaiji
+Kaiten
+Kami
+Karagany
+Kardon Loader
+Karius
+Karkoff
+Karma
+KasperAgent
+Kazuar
+KazyLoader
+KDC Sponge
+Kegotip
+KEKW
+Kelihos
+Keona
+KeRanger
+kerberods
+KerrDown
+Ketrican
+Ketrum
+KevDroid
+KeyBase
+KeyBoy
+Keydnap
+KEYMARBLE
+KeyPlexer
+KEYPLUG
+kfos
+KGH_SPY
+Khonsari
+KHRAT
+Kikothac
+KillAV
+KillDisk
+KillDisk (Lazarus)
+KilllSomeOne
+KimJongRat
+Kimsuky
+Kingminer
+KINS
+Kinsing
+Kitmos
+KIVARS
+KIVARS
+Klackring
+KleptoParasite Stealer
+KlingonRAT
+KLRD
+Knot
+Koadic
+Kobalos
+KoiVM
+KokoKrypt
+Koler
+Komplex
+KOMPROGO
+Konni
+KoobFace
+KopiLuwak
+Korlia
+Kovter
+KPOT Stealer
+Krachulka
+Kraken
+KrBanker
+KrDownloader
+Kronos
+KryptoCibule
+KSL0T
+KSREMOTE
+Kuaibu
+Kuluoz
+Kurton
+Kutaki
+Kwampirs
+L0rdix
+Ladon
+Lador
+Lady
+LALALA Stealer
+Lambert
+Lambert
+Lamdelin
+lampion
+Laoshu
+LaplasClipper
+LatentBot
+Laturo Stealer
+LaZagne
+LazarDoor
+LazarLoader
+Laziok
+LazyCat
+Lazyscripter
+LCPDot
+LDR4
+Leakthemall
+Leash
+LeetHozer
+Lemon Duck
+Leouncia
+Lethic
+LetMeOut
+Leverage
+LgoogLoader
+Liderc
+LightBot
+LightNeuron
+Lightning Framework
+Lightning Stealer
+lightSpy
+Ligsterac
+Lilith
+LiLock
+lilyofthevalley
+limedownloader
+limeminer
+LimePad
+LimeRAT
+Limitail
+LinseningSvr
+LiquorBot
+Listrix
+LiteDuke
+LiteHTTP
+LittleLooter
+LNKR
+LockBit
+LockBit
+LockerGoga
+LockFile
+LockPOS
+lockscreen
+Locky
+Locky (Decryptor)
+Locky Loader
+Loda
+LODEINFO
+Loerbas
+Lofy
+Log Collector
+Logedrut
+LogPOS
+Logtu
+LoJax
+Loki
+Loki Password Stealer (PWS)
+Loki RAT
+LokiBot
+LokiLocker
+Lokorrito
+LOLSnif
+LONGWATCH
+looChiper
+Lookback
+Lootwodniw
+Lorenz
+Loup
+LOWBALL
+LOWKEY
+LOWZERO
+lsassDumper
+Lu0Bot
+Luca Stealer
+Lucifer
+LuckyCat
+Luminosity RAT
+Lumma Stealer
+Luna
+LunchMoney
+Lurk
+Luzo
+Lyceum .NET DNS Backdoor
+Lyceum .NET TCP Backdoor
+Lyceum Golang HTTP Backdoor
+Lyposit
+M00nD3V Logger
+m0yv
+Macaw
+MacDownloader
+Machete
+MacInstaller
+MacRansom
+MacSpy
+MacVX
+MadMax
+Magala
+magecart
+Maggie
+MagicRAT
+Magniber
+Mail-O
+Mailto
+Maintools.js
+MajikPos
+Makadocs
+MakLoader
+Makop Ransomware
+Maktub
+MalumPOS
+Mamba
+MaMi
+ManameCrypt
+Mandrake
+Mangzamel
+Manifestus
+ManItsMe
+Manjusaka
+Manjusaka
+Manuscrypt
+Maoloa
+MAPIget
+Marap
+Marcher
+Mariposa
+MarkiRAT
+Mars
+Mars Stealer
+Masad Stealer
+MASS Logger
+MasterFred
+Masuta
+Matanbuchus
+Matiex
+Matrix Banker
+Matrix Ransom
+Matryosh
+Matryoshka RAT
+Matsnu
+Maudi
+Maui Ransomware
+Maxtrilha
+MazarBot
+Maze
+MBR Locker
+MBRlock
+Mebromi
+MECHANICAL
+Medre
+Medusa
+Medusa
+MedusaLocker
+MegaCortex
+MegaCreep
+MeguminTrojan
+Mekotio
+Melcoz
+Melofee
+Meow
+MercurialGrabber
+Merlin
+Mespinoza
+MESSAGETAP
+MetadataBin
+METALJACK
+Metamorfo
+MetaStealer
+Meteor
+Meterpreter
+Meterpreter
+Mevade
+Mewsei
+MgBot
+Miancha
+Micrass
+MicroBackdoor
+Microcin
+Micropsia
+Midas
+Midrashim
+MiKey
+Mikoponi
+Milan
+MILKMAID
+Milum
+mim221
+Mimic Ransomware
+MimiKatz
+Mindware
+MINEBRIDGE
+MiniASP
+MiniDuke
+MiniJS
+MiniStealer
+MintStealer
+Mirage
+MirageFox
+Mirai
+Mirai
+MirrorBlast
+MirrorKey
+Misdat
+Misfox
+Misha
+Mispadu
+MISTCLOAK
+MISTYVEAL
+Miuref
+MM Core
+MMON
+MobileOrder
+MobiRAT
+Mocton
+ModernLoader
+MoDi RAT
+ModPipe
+ModPOS
+Mofksys
+Moisha Ransomware
+Moker
+Mokes
+Mokes
+Mokes
+Mole
+MoleNet
+Molerat Loader
+Momentum
+Monero Miner
+mongall
+Monokle
+MontysThree
+MooBot
+MoonBounce
+MoonWind
+Moose
+MoqHao
+More_eggs
+MoriAgent
+Moriya
+Morphine
+MortalKombat
+Morto
+MosaicRegressor
+Moserpass
+Mosquito
+Mount Locker
+Moure
+MOUSEISLAND
+mozart
+Mozi
+MPKBot
+MQsTTang
+MRAC
+MrBlack
+MrDec
+MrPeter
+MS Exchange Tool
+Mudwater
+Mughthesec
+MulCom
+Multigrain POS
+Mumblehard
+murkytop
+Murofet
+Mutabaha
+MyDogs
+MyDoom
+MyKings Spreader
+MyloBot
+MysteryBot
+MysterySnail
+MZRevenge
+N-W0rm
+N3Cr0m0rPh
+N40
+Nabucur
+NACHOCHEESE
+Nagini
+Naikon
+NanHaiShu
+Nanocore RAT
+NanoLocker
+NAPLISTENER
+Narilam
+Nautilus
+NavRAT
+nccTrojan
+Nebulae
+Necurs
+NedDnLoader
+Nefilim
+Nemim
+Nemty
+Nerbian RAT
+neshta
+NESTEGG
+NetC
+NetDooka
+NETEAGLE
+NetfilterRootkit
+NetFlash
+NetKey
+Netrepser
+NetSupportManager RAT
+NetTraveler
+NetWire RC
+NetWorm
+Neuron
+Neutrino
+Neutrino POS
+NewBounce
+NewCore RAT
+NewCT
+NewPass
+NewPosThings
+NewsReels
+Nexster Bot
+Nextcry
+Nexus
+NexusLogger
+Ngioweb
+Ngioweb
+NGLite
+NgrBot
+Nibiru
+Nighthawk
+Nightrunner
+NightSky
+NimbleMamba 
+Nimbo-C2
+NimGrabber
+Nimrev
+nitlove
+Nitol
+Nitrokod
+NiuB
+NixScare Stealer
+NjRAT
+nmass malware
+Nocturnal Stealer
+NodeJS Ransomware
+NodeRAT
+Nokki
+Nokoyawa Ransomware
+NominatusToxicBattery
+NorthStar
+Nosu
+NOTROBIN
+NoxPlayer
+Nozelesn (Decryptor)
+nRansom
+NuggetPhantom
+Nullmixer
+Numando
+NVISOSPIT
+Nymaim
+Nymaim2
+Oblique RAT
+Obscene
+OceanLotus
+Oceansalt
+Octopus
+Octopus
+Octopus Scanner
+OddJob
+Oderoor
+Odinaff
+OilRig
+Okrum
+OLDBAIT
+Olympic Destroyer
+Olyx
+OmniRAT
+ONHAT
+Oni
+OnionDuke
+OnlinerSpambot
+OopsIE
+Opachki
+OpBlockBuster
+OpenSUpdater
+OpGhoul
+ORANGEADE
+oRAT
+OrBit
+OrcaRAT
+Orchard
+Orcus RAT
+Ordinypt
+OriginLogger
+OSAMiner
+Oscorp
+Oski Stealer
+Osno
+ostap
+Ousaban
+OutCrypt
+Outlook Backdoor
+OutSteel
+Overlay RAT
+OvidiyStealer
+owaauth
+Owari
+Owlproxy
+Owowa
+OxtaRAT
+OZH RAT
+Ozone RAT
+p0sT5n1F3r
+PackChat
+PadCrypt
+paladin
+Panda Stealer
+PandaBanker
+Pandora
+Pandora RAT
+Paradies Clipper
+Paradise
+Parallax RAT
+parasite_http
+Parrot TDS
+Parrot TDS WebShell
+PartyTicket
+PAS
+Passlock
+Patcher
+Pay2Key
+PayloadBIN
+pbot
+PC Surveillance System
+PcShare
+PeaceNotWar
+PEBBLEDASH
+PeddleCheap
+Pekraut
+Penco
+PennyWise Stealer
+Penquin Turla
+Peppy RAT
+PerlBot
+Persirai
+PetrWrap
+Petya
+pgift
+PhanDoor
+PhantomLance
+Phenakite
+Philadephia Ransom
+Phobos
+Phoenix Keylogger
+Phoenix Locker
+PhoneSpy
+Phonk
+PHOREAL
+Phorpiex
+PhotoLoader
+PICKPOCKET
+Pierogi
+Pikabot
+PILLOWMINT
+PinchDuke
+PINEFLOWER
+PingBack
+Pink
+PintSized
+pipcreat
+PipeMon
+PIRAT
+PirateStealer
+pirpi
+Pirrit
+Pitou
+PittyTiger RAT
+PixPirate
+PixStealer
+PjobRAT
+Pkybot
+PLAINTEE
+PLAY
+playwork
+PLEAD
+PLEAD
+Ploutus ATM
+ployx
+PlugX
+Plurox
+pngdowner
+PNGLoad
+PocoDown
+Podec
+Poet RAT
+Poison Ivy
+Poison RAT
+PoisonCarp
+poisonplug
+Poldat
+PolPo
+Polyglot
+PolyglotDuke
+PolyVice
+Pony
+PoohMilk Loader
+POORTRY
+PoorWeb
+Popcorn Time
+PortDoor
+portless
+poscardstealer
+PoshC2
+POSHSPY
+PoSlurp
+Postlo
+Poulight Stealer
+Povlsomware
+Poweliks
+poweRAT
+POWERBAND
+PowerBrace
+PowerCat
+PowerDuke
+powerkatz
+PowerLoader
+PowerMagic
+PowerPepper
+POWERPIPE
+POWERPLANT
+PowerPool
+PowerRatankba
+PowerShellRunner
+powershell_web_backdoor
+PowerShortShell
+PowerShower
+Powersniff
+POWERSOURCE
+PowerSpritz
+POWERSTATS
+POWERTON
+POWERTRASH
+PowerWare
+PowerZure
+PowGoop
+Powmet
+POWRUNER
+prb_backdoor
+Predator The Thief
+Premier RAT
+PresFox
+Prestige
+Prikormka
+Prilex
+PrincessLocker
+PRISM
+PrivateLoader
+PRIVATELOG
+PrivetSanya
+Pro-Ocean
+Project Alice
+Project Hook POS
+Prometei
+Prometei
+Prometheus
+Prometheus Backdoor
+proteus
+Proto8RAT
+Proton RAT
+ProtonBot
+Prynt Stealer
+PseudoManuscrypt
+PsiX
+PSLogger
+Pteranodon
+PubNubRAT
+Punkey POS
+pupy
+pupy
+pupy
+PureCrypter
+PureLocker
+PurpleFox
+PurpleWave
+Pushdo
+Putabmow
+puzzlemaker
+PvzOut
+PwndLocker
+Pwnet
+pwnpos
+PY#RATION
+PyAesLoader
+PyArk
+pyback
+Pykspa
+PyLocky
+PyVil
+PyXie
+Qaccel
+Qadars
+QakBot
+Qarallax RAT
+Qealler
+QHost
+QNAPCrypt
+QNodeService
+QRat
+QSnatch
+QtBot
+QUADAGENT
+QuantLoader
+Quasar RAT
+QUICKCAFE
+QuickHeal
+QUICKMUTE
+QUIETCANARY
+QUIETEXIT
+QuietSieve
+Qulab
+QvoidStealer
+r2r2
+r980
+Raccoon
+Racket Downloader
+Rad
+Radamant
+RadRAT
+Rafel RAT
+RagnarLocker
+RagnarLocker
+Ragnarok
+Raindrop
+Rakhni
+Rakos
+RambleOn
+Rambo
+Ramdo
+Ramnit
+Ramsay
+Rana
+Ranbyus
+Ranion
+Ranscam
+Ransoc
+RansomEXX
+RansomEXX
+Ransomlock
+Rapid Ransom
+RapidStealer
+RapperBot
+Rarog
+rarstar
+Raspberry Robin
+RaspberryPiBotnet
+Ratankba
+RatankbaPOS
+RATel
+RatMilad
+RatSnif
+Ratty
+rat_hodin
+RawPOS
+Raxir
+Razy
+rbs_srv
+RC2FM
+RCS
+RCtrl
+rdasrv
+RDAT
+ReactorBot
+Reaver
+RecordBreaker
+Red Alert
+Red Gambler
+RedAlert Ransomware
+RedAlert2
+RedAlpha
+RedHat Hacker WebShell
+RedLeaves
+RedLine Stealer
+Redosdru
+REDPEPPER
+RedRum
+REDSALT
+REDSHAWL
+RedXOR
+Redyms
+reGeorg
+Regin
+RegretLocker
+RekenSom
+Rekoobe
+Rekt Loader
+Rektware
+RelicRace
+RemCom
+Remcos
+Remexi
+RemoteAdmin
+RemoteControl
+RemRAT
+Remsec
+Remy
+reptile
+Rerdom
+Responder
+Retadup
+Retefe
+Retefe
+Retro
+Revenant
+Revenge RAT
+ReverseRAT
+Reveton
+REvil
+REvil
+Revive
+Rex
+RGDoor
+Rhadamanthys
+Rhino
+RHOMBUS
+RHttpCtrl
+Rietspoof
+Rifdoor
+Rikamanu
+Riltok
+Rincux
+Ripper ATM
+RisePro
+Rising Sun
+RM3
+RMOT
+RMS
+Roaming Mantis
+RobinHood
+Roboto
+rock
+Rockloader
+Rofin
+Rogue
+RogueRobin
+RogueRobinNET
+Rokku
+RokRAT
+ROLLCOAST
+Rombertik
+ROMCOM RAT
+Romeo(Alfa,Bravo, ...)
+Rook
+Roopirs
+Rootnik
+Rorschach Ransomware
+Roseam
+Roshtyak
+RotaJakiro
+RotorCrypt
+Rover
+Rovnix
+Royal DNS
+Royal Ransom
+RoyalCli
+Rozena
+Rshell
+RTM
+rtpos
+Ruckguv
+Rumish
+Running RAT
+RURansom
+Rurktar
+Rustock
+Ryuk
+Ryuk Stealer
+S.O.V.A.
+Sadogo
+Saefko
+SafeNet
+SAGE
+Sagerunex
+SaiGon
+Saint Bot
+Saitama Backdoor
+Sakula RAT
+Salgorea
+Sality
+SamoRAT
+SamSam
+Sanny
+Saphyra
+SapphireMiner
+SappyCache
+Sarhust
+Sasfis
+Satan
+Satana
+Satellite Turla
+Sathurbot
+Satori
+Sauron Locker
+SBIDIOT
+scanbox
+ScanPOS
+Scarab Ransomware
+Scarabey
+ScareCrow
+Schneiken
+Schtasks
+Scieron
+Scote
+Scranos
+ScreenCap
+ScreenLocker
+ScrubCrypter
+SDBbot
+SEADADDY
+SeaSalt
+SectopRAT
+SeDll
+Sedreco
+Seduploader
+seinup
+Sekhmet
+SelfMake Loader
+SendSafe
+SepSys
+Sepulcher
+SerialVlogger
+Serpent
+Serpico
+ServHelper
+SessionManager
+Sfile
+shadowhammer
+ShadowPad
+Shakti
+SHAPESHIFT
+shareip
+Shark
+SharkBot
+SharpBeacon
+SHARPKNOT
+SharpMapExec
+SharpStage
+SHARPSTATS
+ShellBind
+ShellClient RAT
+ShellLocker
+Shifu
+Shim RAT
+SHIPSHAPE
+Shishiga
+Shlayer
+Shujin
+Shurl0ckr
+Shylock
+SideTwist
+SideWalk
+SideWalk
+SideWinder
+SideWinder
+SiennaBlue
+SiennaPurple
+Sierra(Alfa,Bravo, ...)
+SiestaGraph
+Siggen6
+SigLoader
+sihost
+Silence
+Silence DDoS
+SILENTUPLOADER
+Silex
+SilkBean
+Silon
+Siluhdur
+Silver Sparrow
+Simda
+SimpleFileMover
+Sinowal
+Sisfader
+Skimer
+SkinnyBoy
+skip-2.0
+Skipper
+Skygofree
+Skyplex
+skyrat
+Slam
+SLAPSTICK
+Slave
+Slempo
+SLICKSHOES
+Slingshot
+Sliver
+slnrat
+sLoad
+Slocker
+SlothfulMedia
+SLUB
+smac
+Smackdown
+SManager
+SmartEyes
+SMAUG
+SMOKEDHAM
+SmokeLoader
+Smominru
+Smrss32
+SmsAgent
+SMSspy
+Sn0wsLogger
+Snake
+Snatch
+SnatchCrypto
+SnatchLoader
+SNC
+SNEEPY
+Snifula
+Snojan
+SNS Locker
+Snugy
+Sobaken
+Sobig
+Socelars
+Sockbot
+Socks5 Systemz
+SocksBot
+SodaMaster
+Solarbot
+solarmarker
+SolidBit
+SombRAT
+Somnia
+Sorano
+soraya
+SoreFang
+Sorgu
+Sorillus RAT
+Soul
+SOUNDBITE
+SoWaT
+SpaceCow
+SPACESHIP
+Spamtorte
+Spark
+Sparkle
+SparkRAT
+Sparksrv
+SparrowDoor
+Spartacus
+SpeakUp
+Specter
+Spectre Rat
+Speculoos
+Spedear
+Spicy Hot Pot
+SPIDERPIG RAT
+Spora
+SpyBanker
+SpyBot
+SpyC23
+Spyder
+SpyEye
+SpyMax
+SpyNote
+SQLRat
+Squirrelwaffle
+SquirtDanger
+SSHDoor
+SSHNET
+SslMM
+Stabuniq
+StalinLocker
+Stampedo
+Stantinko
+StarCruft
+Starfighter
+Starfighter
+StarLoader
+StarsyPound
+StartPage
+STARWHALE
+STASHLOG
+StealBit
+Stealc
+Stealer0x3401
+Stealerium
+stealler
+Stealth Mango
+StealthAgent
+StealthWorker Go
+SteamHide
+STEELCORGI
+StegoLoader
+Stinger
+Stitch
+StoneDrill
+STOP
+Stormwind
+STOWAWAY
+Stration
+StrelaStealer
+Stresspaint
+StrifeWater RAT
+StrongPity
+STRRAT
+Stuxnet
+Subzero
+SUCEFUL
+Sugar
+SUGARDUMP
+SUGARRUSH
+SUGARUSH
+SUNBURST
+SunCrypt
+Sunless
+SunOrcal
+SunSeed
+SUPERNOVA
+SuppoBox
+SupremeBot
+surtr
+sustes miner
+Suterusu
+SVCReady
+Svpeng
+swen
+Swid
+SwiftSlicer
+Switcher
+Sword
+Swrort Stager
+sykipot
+Symbiote
+SynAck
+SyncCrypt
+SynFlooder
+Synth Loader
+Sys10
+Syscon
+SysGet
+SysJoker
+SysJoker
+SysJoker
+SysKit
+Sysraw Stealer
+Sysrv-hello
+Sysrv-hello
+SysScan
+SystemBC
+systemd
+Szribi
+T-Cmd
+T-RAT 2.0
+TabMsgSQL
+taidoor
+TAINTEDSCRIBE
+TalentRAT
+Taleret
+Tandfuy
+TangleBot
+Tapaoux
+TargetCompany
+Tarsip
+Tater PrivEsc
+Taurus Stealer
+TClient
+tDiscoverer
+TDTESS
+TeamBot
+TeamSpy
+TeamTNT
+TEARDROP
+TefoSteal
+TelAndExt
+TelB
+TeleBot
+TeleDoor
+TelegramGrabber
+Teleport
+TeleRAT
+TellYouThePass
+Tempedreve
+TempStealer
+TemptingCedar Spyware
+Terminator RAT
+Termite
+TerraLoader
+TerraPreter
+TerraRecon
+TerraStealer
+TerraTV
+TeslaCrypt
+TFlower
+Thanatos
+Thanatos Ransomware
+TheMoon
+ThiefBot
+ThinMon
+ThreeByte
+ThumbThief
+ThunderShell
+ThunderX
+Thunker
+TianySpy
+Tidepool
+Tiger RAT
+tildeb
+Tinba
+TinyLoader
+TinyMet
+TinyNuke
+TinyTurla
+TinyTyphon
+TinyZ
+TinyZbot
+Tiop
+Titan
+TitanStealer
+Tmanger
+TNTbotinger
+Tofsee
+TokyoX
+tomiris
+TONEDEAF
+Tonnerre
+Torii
+Torisma
+TorrentLocker
+TOUCHMOVE
+TOUCHSHIFT
+ToxicEye
+TransBox
+tRat
+TreasureHunter
+Triada
+TrickBot
+Trigona
+Triout
+Triton
+Trochilus RAT
+Troldesh
+TroubleGrabber
+troystealer
+Trump Bot
+Trump Ransom
+TSCookie
+tsh
+Tsifiri
+Tsunami
+Tsunami
+Tunna
+TUNNELFISH
+turian
+Turkojan
+Turla RAT
+Turla SilentMoon
+TurlaRPC
+TURNEDUP
+TwoFace
+TypeHash
+Typhon Stealer
+Tyupkin
+UACMe
+UDPoS
+UFR Stealer
+Uiwix
+UltimaSMS
+Umbreon
+UnderminerEK
+Unidentified 001
+Unidentified 002 (Operation Kremlin)
+Unidentified 003
+Unidentified 003 (Gamaredon Downloader)
+Unidentified 005 (Sidecopy)
+Unidentified 006
+Unidentified 007 (ARMAAN RAT)
+Unidentified 013 (Korean)
+Unidentified 020 (Vault7)
+Unidentified 022 (Ransom)
+Unidentified 023
+Unidentified 024 (Ransomware)
+Unidentified 025 (Clickfraud)
+Unidentified 028
+Unidentified 029
+Unidentified 031
+Unidentified 037
+Unidentified 038
+Unidentified 039
+Unidentified 041
+Unidentified 042
+Unidentified 044
+Unidentified 045
+Unidentified 047
+Unidentified 052
+Unidentified 053 (Wonknu?)
+Unidentified 057
+Unidentified 058
+Unidentified 061
+Unidentified 066
+Unidentified 067
+Unidentified 068
+Unidentified 069 (Zeus Unnamed2)
+Unidentified 070 (Downloader)
+Unidentified 071 (Zeus Unnamed1)
+Unidentified 072 (Metamorfo Loader)
+Unidentified 073 (Charming Kitten)
+Unidentified 074 (Downloader)
+Unidentified 075
+Unidentified 076 (Higaisa LNK to Shellcode)
+Unidentified 077 (Lazarus Downloader)
+Unidentified 078 (Zebrocy Nim Loader?)
+Unidentified 080
+Unidentified 081 (Andariel Ransomware)
+Unidentified 083 (AutoIT Stealer)
+Unidentified 085
+Unidentified 087 
+Unidentified 088 (Nim Ransomware)
+Unidentified 089 (Downloader)
+Unidentified 090 (Lazarus)
+Unidentified 091
+Unidentified 092 (Confucius Backdoor)
+Unidentified 093 (Sidewinder)
+Unidentified 094
+Unidentified 095 (Iranian Wiper)
+Unidentified 096 (Keylogger)
+Unidentified 097 (Polonium Keylogger)
+Unidentified 098 (APT29 Slack Downloader)
+Unidentified 099 (APT29 Dropbox Loader)
+Unidentified 100 (APT-Q-12)
+Unidentified 101 (Lazarus?)
+Unidentified 102 (Donot)
+Unidentified APK 001
+Unidentified APK 002
+Unidentified APK 004
+Unidentified APK 005
+Unidentified APK 006
+Unidentified APK 008
+Unidentified ASP 001 (Webshell)
+Unidentified ELF 004
+Unidentified ELF 006 (Tox Backdoor)
+Unidentified JS 001 (APT32 Profiler)
+Unidentified JS 002
+Unidentified JS 003 (Emotet Downloader)
+Unidentified JS 004
+Unidentified JS 005 (Stealer)
+Unidentified Linux 001
+Unidentified macOS 001 (UnionCryptoTrader)
+Unidentified PS 001
+Unidentified PS 002 (RAT)
+Unidentified PS 003 (RAT)
+Unidentified VBS 001
+Unidentified VBS 004 (RAT)
+Unidentified VBS 005 (Telegram Loader)
+Unidentified VBS 006 (Telegram Loader)
+unidentified_002
+unidentified_003
+Unlock92
+UPAS
+Upatre
+UpdateAgent
+Urausy
+UrlZone
+Uroburos
+Uroburos
+USBCulprit
+USBferry
+Vadokrist
+Vaggen
+VajraSpy
+Valak
+VALUEVAULT
+vamp
+vanillarat
+VaporRage
+Varenyky
+Vawtrak
+VBREVSHELL
+Veeam Dumper
+VegaLocker
+Velso
+Vendetta
+Venom RAT
+VenomLNK
+Venomous
+Venus Locker
+Venus Stealer
+Verblecon
+Vermilion Strike
+Vermilion Strike
+Vermin
+Vflooder
+VHD Ransomware
+VictoryGate
+Vidar
+VIGILANT CLEANER
+Vigram
+VINETHORN
+Viper RAT
+ViperSoftX
+virdetdoor
+VirLock
+VIRTUALGATE
+Virut
+Vizom
+Vjw0rm
+VM Zeus
+Vobfus
+Vohuk
+Void
+Volgmer
+Vovalex
+VPNFilter
+Vreikstadi
+VSingle
+vSkimmer
+Vultur
+Vulturi
+w32times
+W4SP Stealer
+WallyShack
+WannaCryptor
+WannaHusky
+WannaMine
+WannaRen
+WannaRen Downloader
+WasabiSeed
+WastedLoader
+WastedLocker
+WatchBog
+WatchCat
+Waterbear
+WaterMiner
+WaterSpout
+WebC2-AdSpace
+WebC2-Ausov
+WebC2-Bolid
+WebC2-Cson
+WebC2-DIV
+WebC2-GreenCat
+WebC2-Head
+WebC2-Kt3
+WebC2-Qbp
+WebC2-Rave
+WebC2-Table
+WebC2-UGX
+WebC2-Yahoo
+WebMonitor RAT
+WeControl
+WellMail
+WellMess
+WeSteal
+WhiskerSpy
+WhisperGate
+WhiteBird
+WhiteBlackCrypt
+WhiteShadow
+WildFire
+win.beep
+win.fujinama
+win.icexloader
+win.innfirat
+win.JobCrypter
+win.nitro
+win.pyfiledel
+win.rekoobe
+win.sunnyday
+win.unidentified_059
+win.unidentified_063
+win.wabot
+WinDealer
+WindTail
+winlog
+WinMM
+Winnti
+Winnti
+Winnti
+WinorDLL64
+WinPot
+WinScreeny
+Winsloader
+Wipbot
+WireLurker
+WireLurker
+Wirenet
+Wirenet
+WireX
+witchcoven
+WMI Ghost
+WMImplant
+WndTest
+WolfRAT
+Wonknu
+woody
+Woody RAT
+Woolger
+WorldWind
+WORMHOLE
+WormLocker
+WpBruteBot
+Wroba
+WSCSPL
+Wslink
+WSO
+X-Agent
+X-Agent
+X-Agent
+X-Agent
+X-Agent
+X-Tunnel (.NET)
+x4
+Xanthe
+Xaynnalc
+Xbash
+Xbot
+XBot POS
+XBTL
+xCaon
+XCSSET
+XData
+xdr33
+XDSpy
+Xenomorph
+Xenon Stealer
+XFSADM
+XFSCashNCR
+xHelper
+XiaoBa
+Xloader
+XOR DDoS
+Xorist
+XP PrivEsc (CVE-2014-4076)
+XP10
+xPack
+Xpan
+XPCTRA
+XpertRAT
+XploitSPY
+XRat
+XServer
+XSLCmd
+xsPlus
+Xtreme RAT
+XTunnel
+Xwo
+XWorm
+xxmm
+Yahoyah
+Yakuza
+YamaBot
+Yanluowang
+YaRAT
+Yarraq
+Yatron
+yayih
+Yellow Cockatoo RAT
+YellYouth
+Yoddos
+YoreKey
+Yort
+YoungLotus
+YourCyanide
+YTStealer
+yty
+Yunsip
+Z3
+Zacinlo
+Zebrocy
+Zebrocy (AutoIT)
+Zedhou
+Zen
+zenar
+Zeoticus
+Zeppelin
+ZeroAccess
+ZeroBot
+ZeroCleare
+ZeroEvil
+ZeroLocker
+ZeroT
+Zeus
+Zeus MailSniffer
+Zeus OpenSSL
+Zeus Sphinx
+ZeusAction
+Zezin
+zgRAT
+ZhCat
+ZhMimikatz
+ZHtrap
+ZingoStealer
+ZitMo
+ZiyangRAT
+Zloader
+Zlob
+Zollard
+ZooPark
+ZStealer
+Ztorg
+Zumanek
+ZuoRAT
+ZUpdater
+Zupdax
+ZuRu
+ZXShell
+ZxxZ
+Zyklon
