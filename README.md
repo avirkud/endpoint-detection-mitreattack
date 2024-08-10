@@ -11,6 +11,8 @@ This repository contains the code and data for the paper **How does Endpoint Det
 }
 ```
 
+<img src="https://secartifacts.github.io/images/usenixbadges-available.svg" width="128" alt="Artifact Evaluated: Available"> <img src="https://secartifacts.github.io/images/usenixbadges-functional.svg" width="128" alt="Artifact Evaluated: Functional">  <img src="https://secartifacts.github.io/images/usenixbadges-reproduced.svg" width="128" alt="Artifact Evaluated: Reproduced">
+
 ## Setup Instructions
 - Our analysis is presented as Jupyter notebooks (Python 3.8.10).
   - Python can be installed via [python](https://www.python.org/downloads/).
